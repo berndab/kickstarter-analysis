@@ -47,7 +47,7 @@ The initial analysis of this chart shows that there are two peaks in the success
 The chart below shows the number of play campaigns for each goal range. The number of campaigns declines rapidly as the goal range amount increases. There are too few data point at the upper goal ranges to make the calcualted success and failure rates for these  ranges statistically significant enough to be useful in predicting outcomes for the upper goal ranges.
 
 
-![Kickstarter Campaign Counts by Goal Range]( https://github.com/berndab/kickstarter-analysis/blob/master/Module1.Challenge.Extra.Chart.Plays.CampaignCountsByGoalAmount.png)
+![Kickstarter Campaign Counts by Goal Range](https://github.com/berndab/kickstarter-analysis/blob/master/Module1.Challenge.Extra.Chart.Plays.CampaignCountsByGoalAmount.png)
 
 However, this data set can be used to calculate statistically significant success and failure rates for campaigns with goal amounts below $15,000. This is because 92% of the play campaigns in this data set have a goal amount below $15,000 and there is enough data points in each goal amount range below $15,000 to generate statistically significant success and failure rates for the play campaigns in each goal range.
 
@@ -62,7 +62,7 @@ The playwright can expect a greater that 70% average success rate for future pla
 
 Outcomes by Launch Month
 
-![% Play Outcomes by Goal Amount Range]( https://github.com/berndab/kickstarter-analysis/blob/master/Module1.Challenge.Chart.Theater.OutcomeCountsByLaunchMonth.png)
+![% Play Outcomes by Goal Amount Range](https://github.com/berndab/kickstarter-analysis/blob/master/Module1.Challenge.Chart.Theater.OutcomeCountsByLaunchMonth.png)
 
 This chart shows the count of theater Kickstarter campaigns outcome by launch month. This theater data includes not only play campaign outcome data but also outcome data for musicals and theatrical space campaigns. However this analysis focuses solely on determining the launch months that have the highest success rates for play Kickstarter campaigns. Since 75% of theater campaign outcomes consist of play campaign outcomes, this data can be used to investigate the relationship of play campaign outcomes to launch months.
 
@@ -75,12 +75,12 @@ A closer look at the data for May, June, and July show that these months have th
 *	July -- Success Count:    87  -- Total Launched Count: 138
 
 
-![Theater Campaigns Success Countd and Total Launch Count by Launch Month](https://github.com/berndab/kickstarter-analysis/blob/master/Module1.Challenge.Extra.Chart.Theater.Success%26TotalCountsByLaunchMonth.png)
+![Theater Success Count and Launch Count by Launch Month](https://github.com/berndab/kickstarter-analysis/blob/master/Module1.Challenge.Extra.Chart.Theater.Success%26LaunchCountsByLaunchMonth.png)
 
 This chart is a shows a comparison of the number of successful theater campaigns by launch month with the number of theater campaign launches by month. The chart indicates that there is a correlation between the number of theater campaign launches in a month and the number of the successful theater campaigns for that same launch month. However, it does not show a 100% correlation between these counts. Therefore the peak in the number of successful theater campaign outcome that occur in May, June, and July may not solely be caused by the increase in the number of theater campaign launches during these months. I may also be caused by an increase in the success rate for theater campaigns for these months. 
 
 
-![Theater Campaign Success Rate by Launch Month]( https://github.com/berndab/kickstarter-analysis/blob/master/Module1.Challenge.Extra.Chart.Theater.%25SuccessByLaunchMonth.png)
+![Theater Campaign Success Rate by Launch Month](https://github.com/berndab/kickstarter-analysis/blob/master/Module1.Challenge.Extra.Chart.Theater.%25SuccessByLaunchMonth.png)
 
 The chart of theater campaign success rates by launch month confirm that theater campaign succcess rates do peak in May and June. This would support the conclusion that launching a play Kickstarter campaign during May and June will increase its chance of success. For example, a campaign launched in May has a 17% greater chance of success then a campaign launched in December. One reason that the success rate peaks in May and June is that theater plays launched during these months open and run during the peak theater attendance months. More people pledge to theater campaigns because they want to see more plays during this time.
 
